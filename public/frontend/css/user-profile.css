@@ -1,0 +1,18 @@
+
+.user-profile{
+	margin-bottom: 200px;
+}
+.profile{
+	padding: 10px;
+
+}
+
+.text-danger{
+	padding-top: 2px;
+	color: red;
+}
+
+.user-profile table th{
+	color: black;
+	font-style: normal;
+}
